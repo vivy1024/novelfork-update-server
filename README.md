@@ -20,7 +20,7 @@ NovelFork 自动更新服务器 — 代理 GitHub Releases API 和 exe 下载，
 
 ## 部署
 
-部署在 Zeabur 北京项目，域名 `novelfork.vivy1024.cc`。
+部署在 Zeabur 北京项目，域名 `novelfork-update.vivy1024.cc`。
 
 ```bash
 # 本地开发
